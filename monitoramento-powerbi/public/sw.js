@@ -1,4 +1,5 @@
-const CACHE_NAME = 'dados-cache-v1';
+
+const CACHE_NAME = 'dados-cache-v3';
 const URLS_TO_CACHE = ['/paineis.json'];
 
 self.addEventListener('install', event => {
@@ -24,3 +25,5 @@ self.addEventListener('fetch', event => {
     );
   }
 });
+
+

@@ -64,5 +64,30 @@
         "title": "Painel Resíduos Sólidos",
         "link": "https://app.powerbi.com/view?r=eyJrIjoiODBhZDA1YmUtMmRhMS00ZjRlLWIyYjEtZDJiYWQ2MjBiZmY0IiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
         "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-05%20155824.png"
+    },
+    {
+        "id": 12,
+        "title": "Painel Emissão de Carbono Equivalente",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiODY2OTA1MGYtYmEyOS00MmZkLWJjY2QtOTRjMWQyZjE5NTAwIiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-06%20130658.png"
+    },
+    {
+        "id": 13,
+        "title": "Painel Emissão de Gases do Efeito Estufa",
+        "link": "https://app.fabric.microsoft.com/view?r=eyJrIjoiZjhhYzAwYWMtZDRhYi00NDQ3LWI4ZjEtYzc1NmUxNzc3MTQ1IiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-06%20130739.png"
+    },
+    {
+        "id": 14,
+        "title": "Painel Emissão Veiculares dos Gases de Efeito Estufa",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiMTQ0YjY3MjMtMmE1NC00MTllLTk1YmQtYmRhMDAwODk1NmRmIiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-06%20130811.png"
+    },
+    {
+        "id": 15,
+        "title": "Painel PPA 2026-2029",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiNmUzZTc5Y2QtMmE4NS00ZTM1LTgyOTMtY2NlZjBkNTE4YjFiIiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-06%20130846.png"
     }
+    
 ]
