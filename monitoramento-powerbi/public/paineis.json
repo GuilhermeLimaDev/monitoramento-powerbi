@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Painel Água",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiOTAzMDFiN2YtMzQ0OS00NGQ3LTgwODAtOTBkMGUxMjIyODY4IiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-05%20154027.png"
+    },
+    {
+        "id": 2,
+        "title": "Painel Esgoto",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiOWU5ZGU0MjQtNDVkMy00NWU0LTg1YzYtMDE5YzI5ODcwNzY1IiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-05%20154306.png"
+    },
+    {
+        "id": 3,
+        "title": "Painel Animais Domésticos",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiZjY5MmVhZjgtZmFlOC00MjNmLTkzMTYtMTc3NmJhNDgyZDEwIiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-05%20154534.png"
+    },
+    {
+        "id": 4,
+        "title": "Painel Animais Silvestres",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiMGNlOTBlMzItMWQ3NC00YWU5LTk5YTctZmM2N2FlZDA5MGQ3IiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-05%20154808.png"
+    },
+    {
+        "id": 5,
+        "title": "Painel Arborização Urbana",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiOTkxMmI5MmItOWMwZC00ZThhLWI1YWMtYmU3OTZkYTViZmQ1IiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-05%20154841.png"
+    },
+    {
+        "id": 6,
+        "title": "Painel Controle da Poluição do Ar",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiYmMzN2U5ODgtNTBhYy00YjE2LWFmMmEtODg4MTYzMjgwYjI0IiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-05%20155104.png"
+    },
+    {
+        "id": 7,
+        "title": "Painel Drenagem e Manejo de Águas Pluviais",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiNjhhOGU5NDgtZTBkNy00ZDY1LTkyZDktZjQ3ODNhMzhlODc4IiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-05%20155222.png"
+    },
+    {
+        "id": 8,
+        "title": "Painel Educação Ambiental",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiODU0OWU2NTItNjg1Yy00NDkwLWEwM2QtMGRmYmM5YTgwMjg2IiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-05%20155251.png"
+    },
+    {
+        "id": 9,
+        "title": "Painel Fiscalização e Licenciamento Ambiental",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiY2RlOWExZjItZmJiOS00MzU1LTgwZjYtMGRkNjA5YWQxZWI0IiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-05%20155451.png"
+    },
+    {
+        "id": 10,
+        "title": "Painel Programa Município VerdeAzul",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiZTZjOTZkMDctMWM0Zi00ZTk5LWIyYTAtOWZkMDA0NjQ0ODg0IiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-05%20155525.png"
+    },
+    {
+        "id": 11,
+        "title": "Painel Resíduos Sólidos",
+        "link": "https://app.powerbi.com/view?r=eyJrIjoiODBhZDA1YmUtMmRhMS00ZjRlLWIyYjEtZDJiYWQ2MjBiZmY0IiwidCI6ImFmM2ExZGJiLTgxYzctNDllYy1hYmM5LTkwMmViNDgxYTc2ZiJ9",
+        "image": "https://qtrbxvxqxwezuhlborqw.supabase.co/storage/v1/object/public/semastorage/Captura%20de%20tela%202025-11-05%20155824.png"
+    }
+]
